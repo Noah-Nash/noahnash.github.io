@@ -1,4 +1,4 @@
-#This webpage is no longer being modified from GitHub
+# This webpage is no longer being modified from GitHub
 
 I am remaking a new solution entirely from scratch, and when I do so will likely move to a different hosting provider
 
